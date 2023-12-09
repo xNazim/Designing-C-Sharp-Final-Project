@@ -19,6 +19,6 @@ This application is a management system for a warehouse owners. <br>
 It will include name of the product, operation type and date of the operation.
 <br>
 Here is the screenshots of the app and the database: <br>
-![Screenshot1](/screenshots/screenshot1.PNG?raw=true) <br>
-![Screenshot2](/screenshots/screenshot2.PNG?raw=true) <br>
-![Screenshot3](/screenshots/screenshot3.PNG?raw=true) <br>
+![Screenshot1](https://github.com/xNazim/Designing-C-Sharp-Final-Project/blob/main/screenshots/screenshot1.PNG) <br>
+![Screenshot2](https://github.com/xNazim/Designing-C-Sharp-Final-Project/blob/main/screenshots/screenshot2.PNG) <br>
+![Screenshot3](https://github.com/xNazim/Designing-C-Sharp-Final-Project/blob/main/screenshots/screenshot3.PNG) <br>
