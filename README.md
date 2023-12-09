@@ -20,8 +20,8 @@ It will include name of the product, operation type and date of the operation.
 <br>
 Here is the screenshots of the app and the database: <br>
 
-![Screenshot1](./screenshots/screenshot1.png) <br>
+![Screenshot1](./screenshots/screenshot1.PNG) <br>
 
-![Screenshot2](./screenshots/screenshot2.png) <br>
+![Screenshot2](./screenshots/screenshot2.PNG) <br>
 
-![Screenshot3](./screenshots/screenshot3.png) <br>
+![Screenshot3](./screenshots/screenshot3.PNG) <br>
